@@ -1,0 +1,8 @@
+prefix=/home/yash/deeptej_ws/install
+
+Name: offb14
+Description: Description of offb14
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

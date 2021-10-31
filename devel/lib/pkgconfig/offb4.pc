@@ -1,0 +1,8 @@
+prefix=/home/yash/deeptej_ws/devel
+
+Name: offb4
+Description: Description of offb4
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

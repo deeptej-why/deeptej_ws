@@ -1,0 +1,8 @@
+prefix=/home/yash/deeptej_ws/devel
+
+Name: offb11
+Description: Description of offb11
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
